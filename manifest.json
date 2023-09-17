@@ -1,7 +1,8 @@
 {
     "manifest_version": 3,
     "version": "1.0",
-    "name": "Leads tracker",
+    "name": "Sveska",
+    "description":"Productivity App for Students",
     "action": {
         "default_popup": "index.html",
         "default_icon": "icon.png"
