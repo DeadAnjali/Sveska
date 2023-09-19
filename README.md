@@ -9,4 +9,4 @@ FEATURES:
 BACKEND:
 1-Saving the Diary entries in a local file with date and time.
 2-analysing the mood using python graphs API.
-
+3-Google Charts.
